@@ -1,12 +1,12 @@
 Source: cvc3
 Section: math
 Priority: extra
-Maintainer: Christopher L. Conway <cconway@cs.nyu.edu>
+Maintainer: Morgan Deters <mdeters@morgandeters.com>
 Build-Depends: cdbs, debhelper (>= 7), autoconf, autotools-dev, bison, default-jdk, flex, libgmp-dev | libgmp3-dev, patchutils, python
-Standards-Version: 3.9.3
+Standards-Version: 3.9.5
 Homepage: http://www.cs.nyu.edu/acsys/cvc3/
-Vcs-Git: https://github.com/clconway/cvc3-debian.git
-Vcs-Browser: https://github.com/clconway/cvc3-debian
+Vcs-Git: https://github.com/mdeters/cvc3-debian.git
+Vcs-Browser: https://github.com/mdeters/cvc3-debian
 
 Package: cvc3
 Architecture: any

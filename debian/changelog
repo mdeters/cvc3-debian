@@ -1,7 +1,15 @@
+cvc3 (2.4.1-5) unstable; urgency=low
+
+  * New maintainer. (Closes: #757192)
+  * Fix clean target, resolving ppc64el FTBFS. (Closes: #756524)
+  * Update standards version.
+
+ -- Morgan Deters <mdeters@morgandeters.com>  Wed, 06 Aug 2014 17:32:35 +0000
+
 cvc3 (2.4.1-4) unstable; urgency=low
 
   * Transfer package repo to Git.
-  * Fix syntax errors in debian/copyright.
+  * Fix syntax error in debian/copyright.
   * Keep 50cvc3-el.el after remove. (Closes: #684351)
   * Use ln -sf when linking cvc3-el emacsen files. (Closes: #684026)
   * Remove build dep on gcj-native-helper. (Closes: #678183)

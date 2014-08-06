@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: CVC3
-Upstream-Contact: Clark Barret <barret@cs.nyu.edu>
+Upstream-Contact: Clark Barrett <barrett@cs.nyu.edu>
 Source: http://www.cs.nyu.edu/acsys/cvc3/
 
 Files: *
