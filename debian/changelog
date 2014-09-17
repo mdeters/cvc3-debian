@@ -3,7 +3,6 @@ cvc3 (2.4.1-5) unstable; urgency=low
   * New maintainer. (Closes: #757192)
   * Fix clean target, resolving ppc64el FTBFS. (Closes: #756524)
   * Update standards version.
-  * Symbols control file for libcvc3-5.
   * Now lintian clean (with some overrides).
 
  -- Morgan Deters <mdeters@morgandeters.com>  Thu, 07 Aug 2014 11:40:52 -0400
