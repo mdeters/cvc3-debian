@@ -90,7 +90,8 @@ License: MIT
     DEALINGS IN THE SOFTWARE.
 
 Files: debian/*
-Copyright: 2009-2012, Christopher L. Conway <cconway@cs.nyu.edu> 
+Copyright: 2014, Morgan Deters <mdeters@morgandeters.com>
+           2009-2012, Christopher L. Conway <cconway@cs.nyu.edu> 
            2007-2008, Dan Sheridan <djs@adelard.com>
 License: BSD-3-clause
     Redistribution and use in source and binary forms, with or without
