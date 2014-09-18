@@ -1,9 +1,0 @@
-obj
-bin
-config.log
-config.status
-Makefile.local
-bin/cvc2smt
-bin/run_tests
-bin/unpack
-LICENSE
