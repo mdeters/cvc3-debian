@@ -92,7 +92,7 @@ License: MIT
 Files: debian/*
 Copyright: 2009-2012, Christopher L. Conway <cconway@cs.nyu.edu> 
            2007-2008, Dan Sheridan <djs@adelard.com>
-License: BSD
+License: BSD-3-clause
     Redistribution and use in source and binary forms, with or without
     modification, are permitted provided that the following conditions
     are met:
