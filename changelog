@@ -1,8 +1,9 @@
 cvc3 (2.4.1-6) unstable; urgency=low
 
   * Fix dep5 copyright.
+  * Remove Vcs-git and Vcs-browser (not available for CVC3).
 
- -- Morgan Deters <mdeters@morgandeters.com>  Fri, 26 Sep 2014 12:15:43 -0400
+ -- Morgan Deters <mdeters@morgandeters.com>  Fri, 26 Sep 2014 12:19:38 -0400
 
 cvc3 (2.4.1-5) unstable; urgency=low
 
