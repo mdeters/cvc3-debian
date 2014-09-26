@@ -5,7 +5,7 @@ cvc3 (2.4.1-5) unstable; urgency=low
   * Update standards version.
   * Now lintian clean (with some overrides).
 
- -- Morgan Deters <mdeters@morgandeters.com>  Thu, 07 Aug 2014 11:40:52 -0400
+ -- Morgan Deters <mdeters@morgandeters.com>  Fri, 26 Sep 2014 11:39:59 +0000
 
 cvc3 (2.4.1-4) unstable; urgency=low
 
