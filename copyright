@@ -5,7 +5,7 @@ Source: http://www.cs.nyu.edu/acsys/cvc3/
 
 Files: *
 Copyright: 2003-2009, The Board of Trustees of Leland Stanford Junior University, New York University, and the University of Iowa
-License: BSD
+License: BSD-3-clause
     Redistribution and use in source and binary forms, with or without modification,
     are permitted provided that the following conditions are met:
     .
