@@ -14,7 +14,9 @@ DEB_DH_MAKESHLIBS_ARGS_libcvc3-2-jni := --exclude=jni
 
 # Have to run configure before distclean, or else make will die
 cleanbuilddir/cvc3::
+	dh_autotools-dev_updateconfig
 	./configure --disable-zchaff
+	dh_autotools-dev_restoreconfig
 
 # cvc3-mode.el isn't copied by "make install", so copy it to the 
 # staging directory by hand
