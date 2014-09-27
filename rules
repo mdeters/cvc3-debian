@@ -14,6 +14,7 @@ DEB_DH_MAKESHLIBS_ARGS_libcvc3-2-jni := --exclude=jni
 
 # Have to run configure before distclean, or else make will die
 cleanbuilddir/cvc3::
+	rm -f java/Test_manifest
 	dh_autotools-dev_updateconfig
 	./configure --disable-zchaff
 	dh_autotools-dev_restoreconfig

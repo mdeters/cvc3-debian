@@ -1,18 +1,13 @@
-cvc3 (2.4.1-6) unstable; urgency=low
-
-  * Fix dep5 copyright.
-  * Remove Vcs-git and Vcs-browser (not available for CVC3).
-
- -- Morgan Deters <mdeters@morgandeters.com>  Fri, 26 Sep 2014 12:19:38 -0400
-
 cvc3 (2.4.1-5) unstable; urgency=low
 
   * New maintainer. (Closes: #757192)
   * Fix clean target, resolving ppc64el FTBFS. (Closes: #756524)
   * Update standards version.
+  * Fix dep5 copyright.
+  * Remove Vcs-git and Vcs-browser (not available for CVC3).
   * Now lintian clean (with some overrides).
 
- -- Morgan Deters <mdeters@morgandeters.com>  Fri, 26 Sep 2014 11:39:59 +0000
+ -- Morgan Deters <mdeters@morgandeters.com>  Sat, 27 Sep 2014 12:21:27 -0400
 
 cvc3 (2.4.1-4) unstable; urgency=low
 
